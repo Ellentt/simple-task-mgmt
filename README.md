@@ -27,3 +27,8 @@
 ## Boas práticas na estrutura de classes
 * Práticas recomendadas para garatir qe o código seja limpo, eficiente e fácil de manter.
 * Objetivo: Mantter a classe foca em uma única resposabilidade, utilizar nomes claros e evitar repetição de código.
+# Interfaces 
+* Objetivo: Provomover o descomplamento do código. permitindo que diferentes classes implentem o mesmo conjunto de métodos de maneiras diferentes.
+* Criar interface chamada AcoesTarefas que definem como operações basicas "cancelar tarefa" e "executarTarefa" 
+- interfaces e classes abstratas
+e diferença entre as duas
